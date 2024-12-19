@@ -1,14 +1,13 @@
 body {
-  
-  background-image: url(KINGSTON/L4 software development/coffee shop assignment/ Background image.jpg);
-    
+    margin: 0;
+    padding: 0;
 }
 
 header.header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: rgb(62, 66, 66);
+    background-color: rgb(0 0 0 / 65%);
     color:white;
     padding: 0 20px;
 }
