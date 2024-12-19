@@ -1,1 +1,25 @@
+body {
+  
+  background-image: url(KINGSTON/L4 software development/coffee shop assignment/ Background image.jpg);
+    
+}
 
+header.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(62, 66, 66);
+    color:white;
+    padding: 0 20px;
+}
+
+section.grid-container {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    max-width: 1200px;
+    margin:0 auto;
+}
+
+header nav a {
+    color:white;
+}
